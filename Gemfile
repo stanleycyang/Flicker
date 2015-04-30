@@ -6,7 +6,7 @@ gem 'rails', '4.2.0'
 gem 'materialize-sass'
 gem 'angularjs-rails'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'pg'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
