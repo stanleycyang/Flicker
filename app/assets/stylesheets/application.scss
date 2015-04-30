@@ -17,7 +17,7 @@
 @import "materialize";
 
 #index-banner{
-  background: url(/assets/city.gif) no-repeat;
+  background: url(image_path('city.gif')) no-repeat;
   background-size: cover;
   background-position: center;
   height: 550px;
